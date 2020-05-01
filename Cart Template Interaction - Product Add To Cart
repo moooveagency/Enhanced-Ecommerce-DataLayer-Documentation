@@ -1,0 +1,18 @@
+<script>
+var dataLayer  = window.dataLayer || [];
+dataLayer.push({
+  'event': 'addToCart',
+  'ecommerce': {
+         'add': {                                               
+    'products': [{                           
+        'name': 'Microsoft Office 2019 Home and Student for Windows',
+        'id': 'office2019hs',
+        'price': 98.99,
+        'brand': 'Microsoft',
+        'category': 'Microsoft Office',
+        'quantity': 1 
+       }]
+    }
+  }
+});
+</script>
